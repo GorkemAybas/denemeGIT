@@ -1,0 +1,10 @@
+# Derleme çıktıları
+/dist/
+/build/
+
+# Log dosyaları
+*.log
+
+# Kişisel ayarlar
+.vscode/
+*.env
